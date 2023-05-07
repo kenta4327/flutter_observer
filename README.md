@@ -1,0 +1,2 @@
+# flutter_observer
+FlutterでObserverパターンのサンプルを作ってみた
